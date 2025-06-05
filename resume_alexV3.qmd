@@ -30,7 +30,7 @@ format:
 \end{center}
 \vspace{5pt}
 
-**Summary:** Data Scientist with graduate degree + 5 years of experience focusing on **surveys**, **A/B tests**, and **marketing**  
+**Summary:** Data Scientist with graduate degree + 5 years of experience focusing on **surveys**, **A/B tests**, and **causal inference**  
 **Languages:** Python, R, SQL, Spark, Javascript (in this order)
 
 <!-- EXPERIENCE : 1ST BULLET-->
@@ -42,7 +42,7 @@ format:
       \includegraphics[trim=0 21mm 0 0,width=0.06\textwidth]{images/facebook_logo.jpeg}
       \bf \href{https://about.meta.com}{Meta}}\\
       \hspace{11 mm}
-      \textit{Data Scientist (contract) Marketing DS Team}
+      \textit{Data Scientist, IG Creator Marketing Team}
     \end{flushleft}
     \begin{flushright}
     \begin{small}(1yr)\end{small} April 2025-April 2026\\
@@ -51,7 +51,8 @@ format:
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
-* **Analyzed ad incrementality** via AB testing and causal inference techniques (DiD) for latest Meta marketing campaigns. 
+* constructed and reported on **Long Term Holdout** with **power analysis, balance testing, and regular stats readouts**. 
+* Analyzed on ad incrementality via AB testing on On-Platform ads. Mainly Instagram.  
 *This contract for Meta was through [Tundra Technical Solutions](https://www.tundratechnical.ca/)*
 \vspace{2pt}
 
@@ -59,7 +60,7 @@ format:
   \begin{multicols}{2}
     \begin{flushleft}
       \hspace{11 mm}
-      \textit{Data Scientist (contract) Public Affairs Team}
+      \textit{Data Scientist, Public Affairs Team}
     \end{flushleft}
     \begin{flushright}
     \begin{small}(10mth)\end{small} April 2024-Jan 2025
