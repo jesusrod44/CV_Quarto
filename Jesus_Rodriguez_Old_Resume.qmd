@@ -97,7 +97,7 @@ format:
 
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://statistics.unl.edu/sc3lhelp-desk}{Statistical Cross-disciplinary Collaboration and Consulting Workshop}}\end{flushleft}
+    \begin{flushleft}{\bf \href{https://statistics.unl.edu/sc3lhelp-desk}{Statistical Cross-disciplinary Collaboration and Consulting Lab}}\end{flushleft}
     \begin{flushright}Jan 2025-May 2025\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
