@@ -1,0 +1,158 @@
+---
+format: 
+  pdf: 
+    documentclass: article
+    geometry:
+      - top=10mm
+      - left=15mm
+      - right=15mm
+      - bottom=5mm
+      - heightrounded
+    fontfamily: libertine
+    colorlinks: true
+    fontsize: '16'
+    include-in-header: 
+      text: |
+        \usepackage{multicol}
+        \usepackage{lipsum}
+        \usepackage{hyperref}
+        \usepackage{libertine}
+        \pagestyle{empty}
+        \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
+        \setlength{\columnsep}{3em}
+---
+
+<!-- TITLE -->
+
+\begin{huge}\begin{center}{\bf JESUS RODRIGUEZ}\end{center}\end{huge}
+
+<!-- CONTACT INFO -->
+
+\begin{center}402-710-9598 ∙ jrodriguezb44@gmail.com ∙ \href{https://www.linkedin.com/in/jesus-rodriguez-09ab12178}{LinkedIn} ∙ Lincoln, NE
+\end{center}
+\vspace{15pt}
+
+<!-- SKILLS -->
+
+\begin{large}{\bf SKILLS}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\vspace{-0.16cm}
+
+**Interpersonal** - Customer focused service, Team collaboration, Active listening, Clear communication, Adaptability in fast paced settings
+
+**Technical & Operational** - Controlled substance handling & documentation, Regulatory compliance & recordkeeping, Inventory management & stock rotation, Time management, Problem solving & critical thinking
+
+<!-- EXPERIENCE : 4TH BULLET -->
+\begin{large}{\bf EXPERIENCE}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{http://www.yorkanimalclinic.com}{York Animal Clinic}}\end{flushleft}
+    \begin{flushright}May 2018-Present\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Veterinary Assistant}\end
+    {flushleft}\begin{flushright}York, NE\end
+    {flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+
+-   Delivered excellent customer service in a fast-paced environment by addressing needs promptly, retrieving prescriptions, and ensuring a positive client experience
+-   Filled and dispensed prescriptions, including controlled substances under the supervision of a veterinarian, while adhering to strict protocols for accuracy, logging, and accountability
+-   Maintained accurate records of medication counts and completed required documentation to secure compliance with regulations
+-   Restocked and verified inventory, confirming incoming order counts for accuracy and consistent availability
+-   Communicated and partnered effectively with veterinarians and veterinary technicians to guarantee thorough understanding of patients' needs
+-   Upheld a clean, sanitary, and organized work environment to support efficient workflow
+-   Adapted quickly to changing priorities, worked efficiently under pressure, and collaborated with team members to complete time-sensitive tasks
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 1ST BULLET-->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://www.utmb.edu/spph/department/of-biostatistics-data-science/programs-training/summer-institute}{University of Texas-Medical Branch}}\end{flushleft}
+    \begin{flushright}June 2025-July 2025\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Research Assistant, Biostatistician Intern}\end{flushleft}
+    \begin{flushright}Galveston, TX\end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+
+-   Engaged with researchers and biostatisticians to accurately examine patient data, applying strict attention to detail and compliance standards similar to handling medical and pharmacy records
+-   Verified and recorded data outputs, ensuring accuracy and integrity of results
+-   Translated complex statistical results into clear, actionable insights for both technical and non-technical audiences
+-   Balanced multiple projects and deadlines in a fast paced research environment
+-   Worked with sensitive patient data requiring confidentiality
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 2ND BULLET -->
+
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://globalcareeraccelerator.org}{The Global Career Accelerator}}\end{flushleft}
+    \begin{flushright}January 2025-May 2025\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Data Analyst Intern, Excel and Tableau Trainee}\end
+    {flushleft}\begin{flushright}Lincoln, NE\end
+    {flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+
+-   Skilled in Excel and Tableau, using software and databases to analyze data, transferable to pharmacy management systems or point-of-sale systems
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 3RD BULLET -->
+
+<!-- \begin{large} -->
+<!--   \begin{multicols}{2} -->
+<!--     \begin{flushleft}{\bf \href{https://statistics.unl.edu/sc3lhelp-desk}{Statistical Cross-disciplinary Collaboration and Consulting Workshop}}\end{flushleft} -->
+<!--     \begin{flushright}Jan 2025-May 2025\end{flushright} -->
+<!--   \end{multicols} -->
+<!--   \vspace{-0.17cm} -->
+<!--   \begin{multicols}{2} -->
+<!--     \begin{flushleft}\textit{R and SAS Trainee}\end -->
+<!--     {flushleft}\begin{flushright}Lincoln, NE\end -->
+<!--     {flushright} -->
+<!--   \end{multicols} -->
+<!-- \end{large} -->
+<!-- \vspace{-0.16cm} -->
+
+<!-- -   Utilized power analysis to determine sample sizes for designing experiments -->
+<!-- -   Employed machine learning algorithms for better predictive modeling -->
+
+<!-- \vspace{7pt} -->
+
+<!-- EDUCATION: 1ST BULLET -->
+
+\begin{large}
+  {\bf EDUCATION}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf University of Nebraska-Lincoln}\end{flushleft}
+    \begin{flushright}Graduation Date-Dec 2025\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}Bachelor's in Statistics and Data Analytics\end{flushleft}
+    \begin{flushright}Lincoln, NE\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}Minor in Mathematics\end{flushleft}
+  \end{multicols}
+\end{large}
+
+\vspace{0.05cm}
