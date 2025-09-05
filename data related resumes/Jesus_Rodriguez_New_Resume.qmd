@@ -76,7 +76,7 @@ format:
 \end{large}
 \vspace{-0.16cm}
 
--   Cooperated with biostatisticians, principal investigators, and doctoral researchers to examine clinical burn patient data from TriNetX to better treat burns; ultimately ran a chi-square analysis in R to find an association between patient age and burn size for certain outcomes
+-   Cooperated with biostatisticians, principal investigators, and doctoral researchers to examine clinical burn patient data from TriNetX to better treat burn survivors; ultimately ran a chi-square analysis in R to find an association between patient age and burn size for certain outcomes
 -   Attended lectures related to advanced statistical methods such as linear regression, mixed models, and machine learning methods
 -   Presented research analysis findings, translating statistical tables and charts into clear, actionable insights for both technical and non-technical audiences
 -   Documented data, methodologies, and interpretation of findings to help author research manuscripts
