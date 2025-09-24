@@ -107,11 +107,12 @@ Lincoln, NE
 
 -   **Fall 2025 (SQL and Python):**
 
-    -   Hands on experience learning SQL and Python, guided by professionals
+    -   Conducted data analysis using SQL and Python to extract, filter, and manipulate large datasets
+    -   Collaborated with a cross-functional, global team to complete analysis tasks
 
 -   **Spring 2025 (Excel and Tableau):**
 
-    -   Analyzed A/B tests to measure understanding of trends and audience behavior for The Recording Academy in Excel using pivot tables and logical functions such as Xlookup
+    -   Analyzed A/B tests to measure understanding of trends and audience behavior for The Recording Academy in Excel using pivot tables and logical functions such as Xlookup; demonstrated website split improved engagement (pages per session increased 1.86 to 2.78, bounce rate decreased from 41.6% to 33.7%)
 
     -   Told a story with data by generating visualizations for Intel's Sustainability team in Tableau utilizing charts and dashboards
 
@@ -134,8 +135,8 @@ Lincoln, NE
 \end{large}
 \vspace{-0.16cm}
 
--   Cooperated with biostatisticians, principal investigators, and doctoral researchers to examine clinical burn patient data from TriNetX to better treat burn survivors; ultimately ran a chi-square analysis in R to find an association between patient age and burn size for certain outcomes
--   Attended lectures related to advanced statistical methods such as linear regression, mixed models, and machine learning methods
+-   Cooperated with biostatisticians, principal investigators, and doctoral researchers to examine clinical burn patient data from \href{https://trinetx.com}{TriNetX} to better treat burn survivors; ultimately ran a chi-square analysis in R to find an association between patient age and burn size for certain outcomes
+-   Coded a folder scraping function to extract prevalence test results from over 22,000 CSV files downloaded from TriNetX and manipulated the results for a proper analysis
 -   Presented research analysis findings, translating statistical tables and charts into clear, actionable insights for both technical and non-technical audiences
 -   Documented data, methodologies, and interpretation of findings to help author research manuscripts
 
@@ -214,7 +215,7 @@ Lincoln, NE
 
 -   **Fall 2024 (Consultant Collaboration):**
 
-    -   Supported two graduate consultants on a client-focused mock experiment on crop survival under drought conditions, assisting with data analysis and contributing to report writing and presentation development
+    -   Supported two graduate consultants on a client-focused mock experiment on crop survival under drought conditions, assisting with data analysis in SAS and contributing to report writing and presentation development
 
     -   Scheduled and engaged in client meetings to align progress and goals, while leveraging mentorship from experienced consultants to strengthen project outcomes
 
