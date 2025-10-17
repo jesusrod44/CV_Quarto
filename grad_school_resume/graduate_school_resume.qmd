@@ -35,7 +35,7 @@ format:
 \begin{center}jrodriguezb44@gmail.com ∙ 
 \href{https://www.linkedin.com/in/jesus-rodriguez-09ab12178}{LinkedIn} ∙
 \href{https://jesusrod44.github.io/portfolio}{Personal Website} ∙
-Lincoln, NE
+York, NE
 \end{center}
 \vspace{3.5pt}
 
@@ -46,7 +46,7 @@ Lincoln, NE
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}{\bf University of Nebraska-Lincoln}\end{flushleft}
+    \begin{flushleft}{\bf University of Nebraska-Lincoln (UNL)}\end{flushleft}
     \begin{flushright}Graduation Date-Dec 2025\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
@@ -70,8 +70,8 @@ Lincoln, NE
   \begin{multicols}{2}
     \begin{flushleft}{\bf \href{https://statistics.unl.edu}{UNL Department of Statistics}}\end{flushleft}
     \begin{flushright}
-    \begin{small}{(5mth)}\end{small}
-    Aug 2025-Dec 2025\end{flushright}
+    \begin{small}{(2mth)}\end{small}
+    Aug 2025-Present\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
@@ -93,8 +93,8 @@ Lincoln, NE
   \begin{multicols}{2}
     \begin{flushleft}{\bf \href{https://globalcareeraccelerator.org}{The Global Career Accelerator}}\end{flushleft}
     \begin{flushright}
-    \begin{small}{(1yr)}\end{small}
-    Jan 2025-Dec 2025\end{flushright}
+    \begin{small}{(10mth)}\end{small}
+    Jan 2025-Present\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
@@ -107,12 +107,12 @@ Lincoln, NE
 
 -   **Fall 2025 (SQL and Python):**
 
-    -   Conducted data analysis using SQL and Python to extract, filter, and manipulate large datasets
-    -   Collaborated with a cross-functional, global team to complete analysis tasks
+    -   Conduct data analysis using SQL and Python to extract, filter, and manipulate large datasets
+    -   Collaborate with a cross-functional, global team to complete analysis tasks
 
 -   **Spring 2025 (Excel and Tableau):**
 
-    -   Analyzed A/B tests to measure understanding of trends and audience behavior for The Recording Academy in Excel using pivot tables and logical functions such as Xlookup; demonstrated website split improved engagement (pages per session increased 1.86 to 2.78, bounce rate decreased from 41.6% to 33.7%)
+    -   Analyzed A/B tests to measure understanding of trends and audience behavior for The Recording Academy in Excel using pivot tables and logical functions such as Xlookup; demonstrated that a website split improved engagement
 
     -   Told a story with data by generating visualizations for Intel's Sustainability team in Tableau utilizing charts and dashboards
 
@@ -122,7 +122,7 @@ Lincoln, NE
 
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://www.utmb.edu/spph/department/of-biostatistics-data-science/programs-training/summer-institute}{University of Texas-Medical Branch}}\end{flushleft}
+    \begin{flushleft}{\bf \href{https://www.utmb.edu/spph/department/of-biostatistics-data-science/programs-training/summer-institute}{University of Texas-Medical Branch (UTMB)}}\end{flushleft}
     \begin{flushright}
     \begin{small}{(2mth)}\end{small}
     June 2025-July 2025\end{flushright}
@@ -150,7 +150,7 @@ Lincoln, NE
   \begin{multicols}{2}
     \begin{flushleft}{\bf \href{http://www.yorkanimalclinic.com}{York Animal Clinic}}\end{flushleft}
     \begin{flushright}
-    \begin{small}{(7yr 4mth)}\end{small}
+    \begin{small}{(7yr 5mth)}\end{small}
     May 2018-Present\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
@@ -162,8 +162,9 @@ Lincoln, NE
 \end{large}
 \vspace{-0.16cm}
 
--   Communicated and partnered effectively with veterinarians and veterinary technicians to guarantee thorough understanding of patients' needs
--   Adapted quickly to changing priorities, worked efficiently under pressure, and collaborated with team members to provide ample care and compassion to both patients and clients
+-   Communicate and partner effectively with veterinarians and veterinary technicians to guarantee thorough understanding of patients' needs
+-   Adapt quickly to changing priorities, work efficiently under pressure, and collaborate with team members to provide ample care and compassion to both patients and clients
+-   Support veterinarians during house calls by organizing equipment and managing livestock handling to prevent incidents, allowing the veterinarian to focus fully on patient care and ensuring visits run smoothly
 
 \vspace{3pt}
 
@@ -175,11 +176,11 @@ Lincoln, NE
 \end{large}
 \vspace{-0.16cm}
 
-**Technical** - Statistical modeling (linear/logistic regression, ANOVA), experimental design, power analysis, data management (dplyr, pandas), data visualization (ggplot2, matplotlib), reproducible reporting (Quarto, R Markdown), version control (Git/GitHub), database querying (SQL)
+**Technical** - Statistical modeling (linear/logistic regression, ANOVA), experimental design, power analysis, data management (dplyr, pandas), data visualization (ggplot2, matplotlib), reproducible reporting (Quarto, R Markdown), version control (Git/GitHub), database querying (SQL), webscraping (rvest), functional programming (purrr)
 
 <!-- **Interpersonal** - Communication, Collaboration, Adaptability, Detail-oriented, Problem-solving --->
 
-**Languages and Tools** - *proficient:* R, SAS, Excel, Tableau, Quarto *intermediate:* SQL, Git/Github, Python
+**Languages and Tools** - *expert:* R *proficient:* SAS, Excel, Tableau, Quarto *intermediate:* SQL, Python, Git/Github
 
 <!-- **Selected Coursework** - Principles of Statistical Design I & II, Principles of Statistical Analysis, Statistical Computing in R and Python I & II, Statistical Modeling I & II, Analysis of Messy Data, Technical Statistician Skills, Regression Analysis, Calculus I, II, & III, Linear Algebra, Differential Equations -->
 
@@ -195,7 +196,7 @@ Lincoln, NE
   \begin{multicols}{2}
     \begin{flushleft}{\bf \href{https://statistics.unl.edu/sc3lhelp-desk}{Statistical Cross-disciplinary Collaboration \& Consulting Lab}}\end{flushleft}
     \begin{flushright}
-    \begin{small}{(1yr)}\end{small}
+    \begin{small}{(10mth)}\end{small}
     Aug 2024-May 2025\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
@@ -221,6 +222,64 @@ Lincoln, NE
 
 \vspace{3pt}
 
+<!-- SELECTED PROJECTS : 1ST BULLET -->
+
+\begin{large}{\bf SELECTED PROJECTS}
+  \vspace{3pt}
+  \hrule  
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{A Real World Evaluation of Chronic Outcomes by Burn Size and Age}\end{flushleft}
+    \begin{flushright}
+    July 2025\end{flushright}
+    \end{multicols}
+  \vspace{-0.17cm}
+\end{large}
+\vspace{-0.16cm}
+
+-   **Analysis in R and Poster Presentation:**
+    -   Analyzed 22,000 CSV files from TriNetX, containing results from an outcome-prevalence test
+    -   Wrangled raw data into neatly organized and presentable tables
+    -   Showcased findings to other biostatisticians, principal investigators, and medical students
+
+\vspace{3pt}
+
+
+<!-- SELECETED PROJECTS : 2ND BULLET -->
+
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{(Over)Analysis of Imminent Sharknados}\end{flushleft}
+    \begin{flushright}
+    May 2025\end{flushright}
+    \end{multicols}
+  \vspace{-0.17cm}
+\end{large}
+\vspace{-0.16cm}
+
+-   **Analysis in R, Research Report, Presentation:**
+    -   Scraped tornado weather data, shark population data, as well as spatial coastal data from online sources to determine how likely a "sharknado" would occur
+    -   Recorded methods and results in Quarto to document findings, visualizations, and assumptions
+    -   Composed a presentation to address conclusions of the analysis
+
+
+\vspace{3pt}
+
+<!-- SELECETED PROJECTS : 3RD BULLET -->
+
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Tidy Tuesday - Ramen Popularity Analysis}\end{flushleft}
+    \begin{flushright}
+    May 2024\end{flushright}
+    \end{multicols}
+  \vspace{-0.17cm}
+\end{large}
+\vspace{-0.16cm}
+
+-   **Visual Analysis in R of a Tidy Tuesday Dataset**
+    -   Analyzed ratings of global ramen brands in order to determine which country had the highest average rated ramen
+    -   Created graphs of most and least rated brands and flavors
+
 <!-- NOTABLE COURSEWORK -->
 
 \begin{large}{\bf NOTABLE COURSEWORK}
@@ -233,15 +292,14 @@ Lincoln, NE
   \vspace{-0.17cm}
 \end{large}
 \vspace{-0.16cm}
+
 -   **Principles of Statistical Analysis -** Applied statistical inference, hypothesis testing, and model assessment in datasets
 
--   **Principles of Statistical Design I & II -** Designed and evaluated experimental studies using randomized, block, and factorial designs; emphasized applications in biology and applied sciences
+-   **Principles of Statistical Design I & II -** Designed and evaluated experimental studies using randomized, block, and factorial designs
 
 -   **Statistical Modeling I & II -** Built and interpreted generalized linear models, mixed models, and multivariate techniques for complex data
 
 -   **Regression Analysis -** Modeled relationships between variables using simple, multiple, and logistic regression techniques
-
--   **Survey Sampling I -** 
 
 \begin{large}
 \begin{multicols}{1}
@@ -277,4 +335,4 @@ Lincoln, NE
 
 \vspace{3pt}
 
-<!-- SELECTED PROJECTS : 1ST BULLET -->
+
