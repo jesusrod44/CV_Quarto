@@ -224,7 +224,7 @@ York, NE
 
 <!-- **Interpersonal** - Communication, Collaboration, Adaptability, Detail-oriented, Problem-solving --->
 
-**Languages and Tools** - *expert:* R *proficient:* SAS, Excel, Tableau, Quarto *intermediate:* SQL, Python, Git/Github
+**Languages and Tools** - *expert:* R *proficient:* SAS, Excel, Tableau, Quarto *intermediate:* SQL, Python, Git/Github *beginner* Shiny
 
 <!-- **Selected Coursework** - Principles of Statistical Design I & II, Principles of Statistical Analysis, Statistical Computing in R and Python I & II, Statistical Modeling I & II, Analysis of Messy Data, Technical Statistician Skills, Regression Analysis, Calculus I, II, & III, Linear Algebra, Differential Equations -->
 
