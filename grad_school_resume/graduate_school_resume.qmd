@@ -15,12 +15,19 @@ format:
       text: |
         \usepackage{multicol}
         \usepackage{lipsum}
-        \usepackage{hyperref}
         \usepackage{libertine}
+        \usepackage{hyperref} % load hyperref last
         \pagestyle{empty}
-        \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
+        \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original
         \setlength{\columnsep}{3em}
-        
+        % Hyperref link colors and file links
+        \hypersetup{
+          colorlinks=true,
+          linkcolor=blue,
+          filecolor=blue,
+          urlcolor=blue,
+          runcolor=blue
+        }
     header-includes:
       - \usepackage{enumitem}
       - \setlist[itemize]{noitemsep, topsep=0pt, left=0pt}
@@ -227,13 +234,13 @@ York, NE
 
 <!-- INVOLVEMENT : 1ST BULLET -->
 
-\begin{large}{\bf INVOLVEMENT}
+\begin{large}{\bf CONSULTANT TRAINING \& EXPERIENCE}
   \vspace{3pt}
   \hrule  
   \begin{multicols}{2}
     \begin{flushleft}{\bf \href{https://statistics.unl.edu/sc3lhelp-desk}{Statistical Cross-disciplinary Collaboration \& Consulting Lab}}\end{flushleft}
     \begin{flushright}
-    \begin{small}`r daterange("Jun 2024", "May 2025")`\end{small}
+    \begin{small}`r daterange("Aug 2024", "May 2025")`\end{small}
     Aug 2024-May 2025\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
@@ -261,7 +268,7 @@ York, NE
 
 <!-- SELECTED PROJECTS : 1ST BULLET -->
 
-\begin{large}{\bf SELECTED PROJECTS}
+\begin{large}{\bf SELECTED DATA ANALYSIS PROJECTS}
   \vspace{3pt}
   \hrule  
   \begin{multicols}{2}
@@ -285,13 +292,17 @@ York, NE
 
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{(Over)Analysis of Imminent Sharknados}\end{flushleft}
+    \begin{flushleft}
+  \textit{\href{https://jesusrod44.github.io/portfolio/files/sharknados.pdf}{(Over)Analysis of Imminent Sharknados}}
+  \end{flushleft}
     \begin{flushright}
-    May 2025\end{flushright}
-    \end{multicols}
+      May 2025
+    \end{flushright}
+  \end{multicols}
   \vspace{-0.17cm}
 \end{large}
 \vspace{-0.16cm}
+
 
 -   **Analysis in R, Research Report, Presentation:**
     -   Scraped tornado weather data, shark population data, as well as spatial coastal data from online sources to determine how likely a "sharknado" would occur
@@ -364,7 +375,7 @@ York, NE
 \end{large}
 \vspace{-0.16cm}
 
--   **Calculus I, II, and III -** Mastered concepts in limits, derivatives, integrals, multivariable calculus, and vector calculus
+-   **Calculus I, II, & III -** Mastered concepts in limits, derivatives, integrals, multivariable calculus, and vector calculus
 
 -   **Linear Algebra -** Applied matrix operations, eigenvalues, and linear transformations to systems of equations and data analysis
 
