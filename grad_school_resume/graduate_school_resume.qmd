@@ -224,7 +224,7 @@ York, NE
 
 <!-- **Interpersonal** - Communication, Collaboration, Adaptability, Detail-oriented, Problem-solving --->
 
-**Languages and Tools** - *expert:* R *proficient:* SAS, Excel, Tableau, Quarto *intermediate:* SQL, Python, Git/Github *beginner* Shiny
+**Languages and Tools** - *expert:* R *proficient:* SAS, Excel, Tableau, Quarto *intermediate:* SQL, Python, Git/Github *beginner:* Shiny
 
 <!-- **Selected Coursework** - Principles of Statistical Design I & II, Principles of Statistical Analysis, Statistical Computing in R and Python I & II, Statistical Modeling I & II, Analysis of Messy Data, Technical Statistician Skills, Regression Analysis, Calculus I, II, & III, Linear Algebra, Differential Equations -->
 
@@ -266,13 +266,34 @@ York, NE
 
 \vspace{3pt}
 
-<!-- SELECTED PROJECTS : 1ST BULLET -->
+<!-- SELECETED PROJECTS : 1ST BULLET -->
 
 \begin{large}{\bf SELECTED DATA ANALYSIS PROJECTS}
   \vspace{3pt}
-  \hrule  
+  \hrule   
   \begin{multicols}{2}
-    \begin{flushleft}\textit{A Real World Evaluation of Chronic Outcomes by Burn Size and Age}\end{flushleft}
+    \begin{flushleft}
+  \textit{\href{https://youtu.be/TDWX9ugJZIY}{ClincalTrials.gov Cluster Headache Visualization}}
+  \end{flushleft}
+    \begin{flushright}
+    November 2025\end{flushright}
+    \end{multicols}
+  \vspace{-0.17cm}
+\end{large}
+\vspace{-0.16cm}
+
+-   **List Processing, Data Visualization, and Shiny App Development in R**
+    -   Retrieved and parsed clinical trial data using the \href{https://clinicaltrials.gov/data-api/api}{ClinicalTrials.gov API}
+    -   Transformed JSON responses into tidy, analysis ready data frames
+    -   Built clear, quality visualizations for outcome measures
+
+<!-- SELECTED PROJECTS : 2nd BULLET -->
+
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}
+    \textit{\href{https://jesusrod44.github.io/portfolio/images/UTMB_poster.jpg}{A Real World Evaluation of Chronic Outcomes by Burn Size and Age}}
+    \end{flushleft}
     \begin{flushright}
     July 2025\end{flushright}
     \end{multicols}
@@ -288,7 +309,7 @@ York, NE
 \vspace{3pt}
 
 
-<!-- SELECETED PROJECTS : 2ND BULLET -->
+<!-- SELECETED PROJECTS : 3rd BULLET -->
 
 \begin{large}
   \begin{multicols}{2}
@@ -307,16 +328,18 @@ York, NE
 -   **Analysis in R, Research Report, Presentation:**
     -   Scraped tornado weather data, shark population data, as well as spatial coastal data from online sources to determine how likely a "sharknado" would occur
     -   Recorded methods and results in Quarto to document findings, visualizations, and assumptions
-    -   Composed a presentation to address conclusions of the analysis
+    -   Composed a \href{https://jesusrod44.github.io/portfolio/files/sharknado_presentation.pdf}{presentation} to address conclusions of the analysis
 
 
 \vspace{3pt}
 
-<!-- SELECETED PROJECTS : 3RD BULLET -->
+<!-- SELECETED PROJECTS : 4th BULLET -->
 
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Tidy Tuesday - Ramen Popularity Analysis}\end{flushleft}
+    \begin{flushleft}
+  \textit{\href{https://youtu.be/pn6putf4HHc}{Screencast - Ramen Popularity Analysis}}
+  \end{flushleft}
     \begin{flushright}
     May 2024\end{flushright}
     \end{multicols}
@@ -324,9 +347,9 @@ York, NE
 \end{large}
 \vspace{-0.16cm}
 
--   **Visual Analysis in R of a Tidy Tuesday Dataset**
+-   **Analysis in R**
     -   Analyzed ratings of global ramen brands in order to determine which country had the highest average rated ramen
-    -   Created graphs of most and least rated brands and flavors
+    -   Created graphs and maps of most and least rated brands and flavors
 
 <!-- NOTABLE COURSEWORK -->
 
