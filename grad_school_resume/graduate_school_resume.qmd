@@ -285,7 +285,8 @@ York, NE
 -   **List Processing, Data Visualization, and Shiny App Development in R**
     -   Retrieved and parsed clinical trial data using the \href{https://clinicaltrials.gov/data-api/api}{ClinicalTrials.gov API}
     -   Transformed JSON responses into tidy, analysis ready data frames
-    -   Built clear, quality visualizations for outcome measures
+
+\vspace{3pt}
 
 <!-- SELECTED PROJECTS : 2nd BULLET -->
 
